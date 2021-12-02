@@ -1,5 +1,5 @@
 # CS174A
-Assignments for Computer Graphics @ UCLA with Professor Asish Law <br>
+3D Assignments for Computer Graphics @ UCLA with Professor Asish Law <br>
 Coded in Javascript and TinyGL (subset of OpenGL) 
 
 **Grades:** <br>
