@@ -7,7 +7,7 @@ Coded in 3D using Javascript and TinyGL (subset of OpenGL)
 Assignment 1: N/A
 Assignment 2: 25/25 (100%)
 Assignment 3: 25/25 (100%) 
-Assignment 4: TBA 
+Assignment 4: 25/25 (100%)
 ```
 
 
