@@ -9,7 +9,7 @@ Assignment 2: 25/25 (100%)
 Assignment 3: 25/25 (100%) 
 Assignment 4: 25/25 (100%)
 Final Project: 29.28/30 (97.6%)
-https://github.com/rachnguyn/turtlemania
 ```
+Final Project: https://github.com/rachnguyn/turtlemania
 
 
